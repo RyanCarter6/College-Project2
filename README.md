@@ -1,4 +1,4 @@
-# CS300-Portfolio
+# C++ College Project
 
 In the final project of this course, the main goal was to create a menu of courses using a particular data structure with functions to load courses, print all courses, and print a certain course.
 
